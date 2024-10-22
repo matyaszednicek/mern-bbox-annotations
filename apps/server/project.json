@@ -22,6 +22,20 @@
           "buildTarget": "server:build:production"
         }
       }
+    },
+    "serve-both": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          {
+            "command": "nx serve client"
+          },
+          {
+            "command": "nx serve server"
+          }
+        ],
+        "parallel": true
+      }
     }
   }
 }
