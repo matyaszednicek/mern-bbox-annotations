@@ -1,6 +1,7 @@
 # MernBboxAnnotations
 
 This is a hobby app developed in one week just to showcase the type of code I write.
+<img src="./mern-bbox-annotations.gif" />
 
 ## Run Locally
 
