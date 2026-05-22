@@ -1,3 +1,5 @@
+> From a time when vibecoding wasnt a thing yet
+
 # MernBboxAnnotations
 
 > This is a simple annotation app developed in one week just for code showcase.
